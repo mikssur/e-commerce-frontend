@@ -1,0 +1,152 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "title": "Design unisex oversized t-shirt with front graphic print in blue wash",
+      "category": "Sweater",
+      "sex": "Unisex",
+      "image": "https://pyxis.nymag.com/v1/imgs/e36/3ac/8312d36af171c9c26c7eaa870271c20ddd-buttonback-alex-mill.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Topman heavyweight oversized hoodie in black",
+      "category": "Hoodie",
+      "sex": "Men",
+      "image": "https://www.peakperformance.com/fi/media/catalog/product/G/7/G79357030_27bbba0b61c4ded0c0bf20e3f4fad8d2.jpg?dpr=1&fit=cover&orient=1&optimize=low&format=pjpg&auto=webp&width=767.984"
+    },
+    {
+      "id": 3,
+      "title": "Rivel Down Jacket",
+      "category": "Jacket",
+      "sex": "Women",
+      "image": "https://www.prada.com/content/dam/pradabkg_products/S/SGB/SGB716/1YESF0002/SGB716_1YES_F0002_S_202_SLF.jpg/jcr:content/renditions/cq5dam.web.hebebed.1000.1000.crop.jpg"
+    },
+    {
+      "id": 4,
+      "title": "STRETCH COACH JACKET WOMEN",
+      "category": "Jacket",
+      "sex": "Women",
+      "image": "https://www.peakperformance.com/fi/media/catalog/product/G/7/G78662050_e32f160d68ffc8925f561229886af057.jpg?dpr=1&fit=cover&orient=1&optimize=low&format=pjpg&auto=webp&width=761.188"
+    },
+    {
+      "id": 5,
+      "title": "Jack & Jones Intelligence Liam skinny jean in white",
+      "category": "Jeans",
+      "sex": "Women",
+      "image": "https://img01.ztat.net/article/spp-media-p1/6f4eef3d5ada4b72a4895d97c3602f9e/edb2cfeae4524d36acb0bf5e44b8a700.jpg?imwidth=762&filter=packshot"
+    },
+    {
+      "id": 6,
+      "title": "CLASSIC COTTON POLO",
+      "category": "Shirt",
+      "sex": "Men",
+      "image": "https://www.peakperformance.com/fi/media/catalog/product/G/7/G78450010_84f2ad9aeb2fb86b8af01df60341787c.jpg?dpr=1&fit=cover&orient=1&optimize=low&format=pjpg&auto=webp&width=761.188"
+    },
+    {
+      "id": 7,
+      "title": "Design unisex oversized t-shirt with front graphic print in blue wash",
+      "category": "Sweater",
+      "sex": "Unisex",
+      "image": "https://pyxis.nymag.com/v1/imgs/e36/3ac/8312d36af171c9c26c7eaa870271c20ddd-buttonback-alex-mill.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Topman heavyweight oversized hoodie in black",
+      "category": "Hoodie",
+      "sex": "Unisex",
+      "image": "https://www.peakperformance.com/fi/media/catalog/product/G/7/G79357030_27bbba0b61c4ded0c0bf20e3f4fad8d2.jpg?dpr=1&fit=cover&orient=1&optimize=low&format=pjpg&auto=webp&width=767.984"
+    },
+    {
+      "id": 13,
+      "title": "Jack & Jones Intelligence Liam skinny jean in white",
+      "category": "Jeans",
+      "sex": "Men",
+      "image": "https://img01.ztat.net/article/spp-media-p1/6f4eef3d5ada4b72a4895d97c3602f9e/edb2cfeae4524d36acb0bf5e44b8a700.jpg?imwidth=762&filter=packshot"
+    },
+    {
+      "id": 14,
+      "title": "CLASSIC COTTON POLO",
+      "category": "Shirt",
+      "sex": "Men",
+      "image": "https://www.peakperformance.com/fi/media/catalog/product/G/7/G78450010_84f2ad9aeb2fb86b8af01df60341787c.jpg?dpr=1&fit=cover&orient=1&optimize=low&format=pjpg&auto=webp&width=761.188"
+    },
+    {
+      "id": 15,
+      "title": "Design unisex oversized t-shirt with front graphic print in blue wash",
+      "category": "Sweater",
+      "sex": "Unisex",
+      "image": "https://pyxis.nymag.com/v1/imgs/e36/3ac/8312d36af171c9c26c7eaa870271c20ddd-buttonback-alex-mill.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Design unisex oversized t-shirt with front graphic print in blue wash",
+      "category": "Sweater",
+      "sex": "Men",
+      "image": "https://pyxis.nymag.com/v1/imgs/e36/3ac/8312d36af171c9c26c7eaa870271c20ddd-buttonback-alex-mill.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Topman heavyweight oversized hoodie in black",
+      "category": "Hoodie",
+      "sex": "Men",
+      "image": "https://www.peakperformance.com/fi/media/catalog/product/G/7/G79357030_27bbba0b61c4ded0c0bf20e3f4fad8d2.jpg?dpr=1&fit=cover&orient=1&optimize=low&format=pjpg&auto=webp&width=767.984"
+    },
+    {
+      "id": 11,
+      "title": "Rivel Down Jacket",
+      "category": "Jacket",
+      "sex": "Women",
+      "image": "https://www.prada.com/content/dam/pradabkg_products/S/SGB/SGB716/1YESF0002/SGB716_1YES_F0002_S_202_SLF.jpg/jcr:content/renditions/cq5dam.web.hebebed.1000.1000.crop.jpg"
+    },
+    {
+      "id": 12,
+      "title": "STRETCH COACH JACKET WOMEN",
+      "category": "Jacket",
+      "sex": "Women",
+      "image": "https://www.peakperformance.com/fi/media/catalog/product/G/7/G78662050_e32f160d68ffc8925f561229886af057.jpg?dpr=1&fit=cover&orient=1&optimize=low&format=pjpg&auto=webp&width=761.188"
+    },
+    {
+      "id": 16,
+      "title": "Topman heavyweight oversized hoodie in black",
+      "category": "Hoodie",
+      "sex": "Unisex",
+      "image": "https://www.peakperformance.com/fi/media/catalog/product/G/7/G79357030_27bbba0b61c4ded0c0bf20e3f4fad8d2.jpg?dpr=1&fit=cover&orient=1&optimize=low&format=pjpg&auto=webp&width=767.984"
+    },
+    {
+      "id": 17,
+      "title": "STRETCH COACH JACKET WOMEN",
+      "category": "Jacket",
+      "sex": "Unisex",
+      "image": "https://www.peakperformance.com/fi/media/catalog/product/G/7/G78662050_e32f160d68ffc8925f561229886af057.jpg?dpr=1&fit=cover&orient=1&optimize=low&format=pjpg&auto=webp&width=761.188"
+    },
+    {
+      "id": 18,
+      "title": "Jack & Jones Intelligence Liam skinny jean in white",
+      "category": "Jeans",
+      "sex": "Unisex",
+      "image": "https://img01.ztat.net/article/spp-media-p1/6f4eef3d5ada4b72a4895d97c3602f9e/edb2cfeae4524d36acb0bf5e44b8a700.jpg?imwidth=762&filter=packshot"
+    },
+    {
+      "id": 19,
+      "title": "CLASSIC COTTON POLO",
+      "category": "Shirt",
+      "sex": "Unisex",
+      "image": "https://www.peakperformance.com/fi/media/catalog/product/G/7/G78450010_84f2ad9aeb2fb86b8af01df60341787c.jpg?dpr=1&fit=cover&orient=1&optimize=low&format=pjpg&auto=webp&width=761.188"
+    },
+    {
+      "id": 20,
+      "title": "Design unisex oversized t-shirt with front graphic print in blue wash",
+      "category": "Sweater",
+      "sex": "Unisex",
+      "image": "https://pyxis.nymag.com/v1/imgs/e36/3ac/8312d36af171c9c26c7eaa870271c20ddd-buttonback-alex-mill.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Topman heavyweight oversized hoodie in black",
+      "category": "Hoodie",
+      "sex": "Unisex",
+      "image": "https://www.peakperformance.com/fi/media/catalog/product/G/7/G79357030_27bbba0b61c4ded0c0bf20e3f4fad8d2.jpg?dpr=1&fit=cover&orient=1&optimize=low&format=pjpg&auto=webp&width=767.984"
+    }
+  ],
+  "totalPages": 2
+}
