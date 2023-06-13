@@ -95,7 +95,8 @@ export const AddUpdateForm = () => {
           title: title,
           price: price,
           description: description,
-          image: image.source,
+          image:
+            'https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/450188/item/eugoods_09_450188.jpg?width=722&impolicy=quality_70&imformat=chrome',
           quantity: quantity,
           categoryId: data.category
         })
@@ -106,8 +107,7 @@ export const AddUpdateForm = () => {
           title: title,
           price: price,
           description: description,
-          image:
-            'https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/450188/item/eugoods_09_450188.jpg?width=722&impolicy=quality_70&imformat=chrome',
+          image: image.source,
           quantity: quantity,
           categoryId: data.category
         })
