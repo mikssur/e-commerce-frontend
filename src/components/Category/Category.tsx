@@ -1,7 +1,8 @@
-import { Chip } from '@mui/material'
 import { useDispatch } from 'react-redux'
 import { AppDispatch } from '../../store/store'
 import { deleteCategoryThunk } from '../../store/actions/categoriesAction'
+
+import { Chip } from '@mui/material'
 
 interface ICategoryProps {
   id: number

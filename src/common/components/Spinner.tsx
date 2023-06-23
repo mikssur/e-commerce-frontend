@@ -1,5 +1,5 @@
-import CircularProgress from '@mui/material/CircularProgress'
 import styled from '@emotion/styled'
+import CircularProgress from '@mui/material/CircularProgress'
 
 export const Spinner = () => {
   return (

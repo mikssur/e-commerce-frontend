@@ -1,13 +1,15 @@
-import styled from '@emotion/styled'
-import { Paper, TextField, Divider, Alert } from '@mui/material'
 import { useForm, SubmitHandler, Controller } from 'react-hook-form'
 import { useEffect } from 'react'
-import { Button } from '../../common/components/Button'
 import { useDispatch, useSelector } from 'react-redux'
 import { AppDispatch, RootState } from '../../store/store'
 import { createCategoryThunk, fetchCategoriesThunk } from '../../store/actions/categoriesAction'
-import Category from './Category'
 import { editCategory } from '../../store/reducers/categoriesSlice'
+
+import styled from '@emotion/styled'
+import { Paper, TextField, Divider, Alert } from '@mui/material'
+
+import { Button } from '../../common/components/Button'
+import Category from './Category'
 import { Spinner } from '../../common/components/Spinner'
 
 interface IFormInputs {

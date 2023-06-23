@@ -1,4 +1,5 @@
 import styled from '@emotion/styled'
+
 import { Size } from './Size'
 
 const SIZES_DATA = [

@@ -1,7 +1,7 @@
 import styled from '@emotion/styled'
 import { Paper } from '@mui/material'
-import AddIcon from '@mui/icons-material/Add'
 import { Link } from 'react-router-dom'
+import AddIcon from '@mui/icons-material/Add'
 
 export const NewProductCard = () => {
   return (

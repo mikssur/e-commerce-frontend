@@ -3,7 +3,7 @@ import styled from '@emotion/styled'
 interface SizeProps {
   sizeValue: string
   currentSize: string
-  handleChange: (e: unknown) => void
+  handleChange: (e: React.FormEvent<HTMLInputElement>) => void
 }
 
 export const Size = ({ sizeValue, currentSize, handleChange }: SizeProps) => {

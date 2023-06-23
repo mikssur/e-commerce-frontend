@@ -1,16 +1,19 @@
-import { Filter } from './Filter/Filter'
-import { SearchBar } from './Search/SearchBar'
-import { Button } from '../../common/components/Button'
-
 import { useEffect, useState } from 'react'
-import styled from '@emotion/styled'
-import { Divider } from '@mui/material'
 import { useDispatch, useSelector } from 'react-redux'
 import { AppDispatch, RootState } from '../../store/store'
+
+import styled from '@emotion/styled'
+import { Divider } from '@mui/material'
+
+import { Button } from '../../common/components/Button'
+
 import { fetchCategoriesThunk } from '../../store/actions/categoriesAction'
-import { FilterChip } from './FilterChip/FilterChip'
-import { updateFilter } from '../../store/reducers/productsSlice'
 import { fetchFilteredProductsThunk } from '../../store/actions/productsAction'
+import { updateFilter } from '../../store/reducers/productsSlice'
+
+import { Filter } from './Filter/Filter'
+import { FilterChip } from './FilterChip/FilterChip'
+import { SearchBar } from './Search/SearchBar'
 
 export const SearchFilter = () => {
   const [isActive, setIsActive] = useState(false)

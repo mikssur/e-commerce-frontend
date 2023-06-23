@@ -1,10 +1,9 @@
-import React from 'react'
-import { ImageUploadType } from './AddUpdateForm'
-import { Paper, IconButton } from '@mui/material'
 import styled from '@emotion/styled'
+import { Paper, IconButton } from '@mui/material'
 import AddPhotoAlternateIcon from '@mui/icons-material/AddPhotoAlternate'
 import DeleteIcon from '@mui/icons-material/Delete'
 import AutorenewIcon from '@mui/icons-material/Autorenew'
+import { ImageUploadType } from './AddUpdateForm'
 
 interface ImageSectionProps {
   imagesPreview: ImageUploadType | null

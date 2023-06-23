@@ -1,17 +1,17 @@
+import { ChangeEvent, useState } from 'react'
+import { useDispatch } from 'react-redux'
+import { AppDispatch } from '../../../store/store'
+import { Paper } from '@mui/material'
+import styled from '@emotion/styled'
+import CloseIcon from '@mui/icons-material/Close'
+
+import { generateDateId } from '../../../helpers/generateId'
+import { addToCart } from '../../../store/reducers/cartSlice'
+import { deleteProductThunk } from '../../../store/actions/productsAction'
+
 import { SizeSection } from '../SizeSection/SizeSection'
 import { CounterButton } from '../CounterButton/CounterButton'
 import { Button } from '../../../common/components/Button'
-
-import { Paper } from '@mui/material'
-import styled from '@emotion/styled'
-import { useDispatch } from 'react-redux'
-import { AppDispatch } from '../../../store/store'
-import { ChangeEvent, useState } from 'react'
-import { generateDateId } from '../../../helpers/generateId'
-import { addToCart } from '../../../store/reducers/cartSlice'
-import { deleteProduct } from '../../../store/reducers/productsSlice'
-import CloseIcon from '@mui/icons-material/Close'
-import { deleteProductThunk } from '../../../store/actions/productsAction'
 
 interface ItemCardProps {
   title: string

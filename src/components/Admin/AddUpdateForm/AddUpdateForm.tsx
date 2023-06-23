@@ -1,12 +1,15 @@
 import { ChangeEvent, useEffect, useState } from 'react'
+import { useDispatch, useSelector } from 'react-redux'
 import { useParams } from 'react-router-dom'
-import { Paper, TextField, Box, MenuItem, Alert } from '@mui/material'
-import styled from '@emotion/styled'
 import { useForm, SubmitHandler, Controller } from 'react-hook-form'
+
+import styled from '@emotion/styled'
+import { Paper, TextField, Box, MenuItem, Alert } from '@mui/material'
+
 import { Button } from '../../../common/components/Button'
 import { ImageSection } from './ImageSection'
 import { generateDateId } from '../../../helpers/generateId'
-import { useDispatch, useSelector } from 'react-redux'
+
 import { AppDispatch, RootState } from '../../../store/store'
 import {
   addProductThunk,

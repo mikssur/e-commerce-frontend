@@ -1,6 +1,7 @@
-import { Chip } from '@mui/material'
 import { useDispatch } from 'react-redux'
 import { AppDispatch } from '../../../store/store'
+
+import { Chip } from '@mui/material'
 import { fetchFilteredProductsThunk } from '../../../store/actions/productsAction'
 import { updateFilter } from '../../../store/reducers/productsSlice'
 

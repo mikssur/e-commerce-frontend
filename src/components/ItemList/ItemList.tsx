@@ -1,13 +1,15 @@
-import styled from '@emotion/styled'
-import { ItemCard } from './ItemCard/ItemCard'
 import { useDispatch, useSelector } from 'react-redux'
-import { AppDispatch, RootState } from '../../store/store'
 import { useEffect } from 'react'
+import styled from '@emotion/styled'
+import { AppDispatch, RootState } from '../../store/store'
+import { Spinner } from '../../common/components/Spinner'
+
 import { fetchProductsThunk } from '../../store/actions/productsAction'
 import { setTotalPages } from '../../store/reducers/productsSlice'
+
+import { ItemCard } from './ItemCard/ItemCard'
 import { NewProductCard } from '../Admin/NewProductCard'
-import { Spinner } from '../../common/components/Spinner'
-import { Product } from '../../store/reducers/productsSlice'
+
 interface ItemList {
   isAdminView: boolean
 }

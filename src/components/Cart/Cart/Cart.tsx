@@ -1,12 +1,11 @@
-import React from 'react'
-import { CartType, removeFromCart } from '../../../store/reducers/cartSlice'
-
-import { AppDispatch } from '../../../store/store'
+import { useDispatch } from 'react-redux'
 
 import styled from '@emotion/styled'
 import { Divider } from '@mui/material'
 import DeleteIcon from '@mui/icons-material/Delete'
-import { useDispatch } from 'react-redux'
+
+import { CartType, removeFromCart } from '../../../store/reducers/cartSlice'
+import { AppDispatch } from '../../../store/store'
 
 export const Cart = ({ id, counter, currentSize, image, title }: CartType) => {
   const dispatch = useDispatch<AppDispatch>()

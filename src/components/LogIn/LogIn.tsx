@@ -1,12 +1,12 @@
+import { useDispatch } from 'react-redux'
+import { useNavigate } from 'react-router-dom'
 import styled from '@emotion/styled'
 import { Button, Paper } from '@mui/material'
 import CloseIcon from '@mui/icons-material/Close'
-import { useDispatch } from 'react-redux'
-import { AppDispatch } from '../../store/store'
 import { useGoogleLogin } from '@react-oauth/google'
+import { AppDispatch } from '../../store/store'
+
 import { authUserThunk } from '../../store/actions/authAction'
-import { useEffect } from 'react'
-import { useNavigate } from 'react-router-dom'
 
 export const LogIn = () => {
   const dispatch = useDispatch<AppDispatch>()

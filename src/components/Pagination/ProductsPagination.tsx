@@ -1,9 +1,10 @@
 import React from 'react'
-import Pagination from '@mui/material/Pagination'
 import { useDispatch, useSelector } from 'react-redux'
+import styled from '@emotion/styled'
+
+import Pagination from '@mui/material/Pagination'
 import { AppDispatch, RootState } from '../../store/store'
 import { setCurrentPage } from '../../store/reducers/productsSlice'
-import styled from '@emotion/styled'
 
 export const ProductsPagination = () => {
   const dispatch = useDispatch<AppDispatch>()
